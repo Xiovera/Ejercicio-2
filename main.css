@@ -1,1 +1,10 @@
-main.css
+var numero1, numero2, numero3, resultadoSuma, promedio;
+
+numero1 = prompt("Por favor, ingresa un número");
+numero2 = prompt("Por favor, ingresa otro número");
+numero3 = prompt("Por favor, ingresa un último número");
+
+resultadoSuma = parseInt(numero1) + parseInt(numero2) + parseInt(numero3);
+promedio = resultadoSuma/3;
+
+alert(promedio);

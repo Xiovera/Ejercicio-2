@@ -7,14 +7,15 @@ Inicio: Promedio de tres números
 - numero1
 - numero2
 - numero3
-- resultado
+- resultadoSuma
+- promedio
 
 ## Proceso
 - Pedir numero1
 - Pedir numero2
 - Pedir numero3
-- Sumar numero1 y numero2 y numero3 y almacenar en resultado
-- Dividir el resultado entre 3
-- Mostrar el resultado
+- Sumar numero1 y numero2 y numero3 y almacenar en resultadoSuma
+- Dividir el resultadoSuma entre 3
+- Mostrar el promedio
 
 *Fin*
