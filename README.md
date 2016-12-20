@@ -14,6 +14,7 @@ Inicio: Promedio de tres números
 - Pedir numero2
 - Pedir numero3
 - Sumar numero1 y numero2 y numero3 y almacenar en resultado
-- Mostrar resultado
+- Dividir el resultado entre 3
+- Mostrar el resultado
 
 *Fin*
